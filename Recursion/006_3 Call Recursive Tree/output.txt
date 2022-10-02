@@ -1,0 +1,26 @@
+Pre: 5
+Pre: 4
+Pre: 3
+Base: 2
+In1: 3
+Base: 1
+In2: 3
+Base: 0
+Post: 3
+In1: 4
+Base: 2
+In2: 4
+Base: 1
+Post: 4
+In1: 5
+Pre: 3
+Base: 2
+In1: 3
+Base: 1
+In2: 3
+Base: 0
+Post: 3
+In2: 5
+Base: 2
+Post: 5
+38

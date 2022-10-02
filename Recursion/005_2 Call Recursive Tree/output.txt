@@ -1,0 +1,38 @@
+Pre: 5
+Pre: 4
+Pre: 3
+Pre: 2
+LLLL
+Base: 1
+In: 2
+LLLR
+Base: 0
+Post: 2
+In: 3
+LLR
+Base: 1
+Post: 3
+In: 4
+Pre: 2
+LRL
+Base: 1
+In: 2
+LRR
+Base: 0
+Post: 2
+Post: 4
+In: 5
+Pre: 3
+Pre: 2
+RLL
+Base: 1
+In: 2
+RLR
+Base: 0
+Post: 2
+In: 3
+RR
+Base: 1
+Post: 3
+Post: 5
+24
